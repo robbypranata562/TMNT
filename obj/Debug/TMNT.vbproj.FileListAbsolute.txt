@@ -1,0 +1,16 @@
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\TMNT.exe.config
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\TMNT.exe
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\TMNT.pdb
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\TMNT.xml
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\MetroFramework.Design.dll
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\MetroFramework.dll
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\MetroFramework.Fonts.dll
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.vbprojResolveAssemblyReference.cache
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.Form1.resources
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.Resources.resources
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.vbproj.GenerateResource.Cache
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.exe
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.xml
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.pdb
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\GanttChart.dll
+c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\GanttChart.xml
