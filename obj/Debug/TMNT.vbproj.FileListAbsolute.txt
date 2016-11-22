@@ -14,3 +14,15 @@ c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.
 c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\obj\Debug\TMNT.pdb
 c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\GanttChart.dll
 c:\users\pc04-pc\documents\visual studio 2013\Projects\TMNT\TMNT\bin\Debug\GanttChart.xml
+E:\Net\Dekstop\TMNT\bin\Debug\TMNT.exe.config
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.exe
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.xml
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.pdb
+E:\Net\Dekstop\TMNT\bin\Debug\TMNT.exe
+E:\Net\Dekstop\TMNT\bin\Debug\TMNT.pdb
+E:\Net\Dekstop\TMNT\bin\Debug\TMNT.xml
+E:\Net\Dekstop\TMNT\bin\Debug\GanttChart.xml
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.vbprojResolveAssemblyReference.cache
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.Form1.resources
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.Resources.resources
+E:\Net\Dekstop\TMNT\obj\Debug\TMNT.vbproj.GenerateResource.Cache

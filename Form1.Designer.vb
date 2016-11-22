@@ -38,14 +38,17 @@ Partial Class Form1
         '
         'GC
         '
+        Me.GC.AccumulateRelationsOnGroup = True
+        Me.GC.AllowDrop = True
         Me.GC.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.GC.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.GC.FullDateStringFormat = Nothing
+        Me.GC.FullDateStringFormat = "yyyy/mm/dd"
         Me.GC.Location = New System.Drawing.Point(20, 60)
         Me.GC.Margin = New System.Windows.Forms.Padding(0)
         Me.GC.Name = "GC"
         Me.GC.Size = New System.Drawing.Size(685, 394)
         Me.GC.TabIndex = 0
+        Me.GC.TimeScaleDisplay = Braincase.GanttChart.TimeScaleDisplay.DayOfMonth
         '
         'ToolTip1
         '
